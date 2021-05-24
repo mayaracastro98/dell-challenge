@@ -1,0 +1,1 @@
+$(".rendition.content.pagebed.md-bg-dark.js-lazyload.b-loaded, .rendition.header-img.content-mobile.hero-width-100.js-lazyload.b-error.b-loaded").css({"background-image": "url(https://placekitten.com/1280/425)"});
